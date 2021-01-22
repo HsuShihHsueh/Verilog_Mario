@@ -50,10 +50,12 @@ p:: ;position
 	MouseGetPos,x,y
 ```
 Having this code, we can controll "w,s,a,d" as "up,down,left,right"<br><br>
-AutoHotKey WinXP Version can download here
-https://cn.allxpsoft.com/autohotkey-windows-xp/
+AutoHotKey WinXP Version can download 
+<a href="https://cn.allxpsoft.com/autohotkey-windows-xp/" target="_blank">here</a><br>
+
 
 ## Backgrounder Render ( By Excel VBA )
+<img src="/picture/img_render.png" width="375" />
 
 ```
 Sub render()
