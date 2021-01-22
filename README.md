@@ -49,8 +49,9 @@ d:: ;right
 p:: ;position
 	MouseGetPos,x,y
 ```
-Having this code, we can controll "w,s,a,d" as "up,down,left,right"<br>
-
+Having this code, we can controll "w,s,a,d" as "up,down,left,right"<br><br>
+AutoHotKey WinXP Version can download here
+https://cn.allxpsoft.com/autohotkey-windows-xp/
 
 ## Backgrounder Render ( By Excel VBA )
 
