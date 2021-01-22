@@ -3,7 +3,7 @@
 ## Controll ( By AutoHotkey )
 Because the "VeriLnstrument"(the verilog simulation software) only can controlled by mouse, but it's hard to complete that difficult 
 operation. Therefore, it need a auxiliary software to help me tranfer from keyboard to mouse clicking.<br><br>
-There are many software to do that. But in this project we are in winXP environment. So it's difficult to write by simply Python or C++ (not support by 32bits). But fortunately we have autohotkey, it has both 32bits & 64bits vision !! <br>
+There are many software to do that. But in this project we are in winXP environment. So it's difficult to write by simply Python or C++ (not support by 32bits). But fortunately we have autohotkey, it has both 32bits & 64bits vision !! <br><br>
 【The following code is work on AutoHotKey】<br>
 ```
 x=500
