@@ -58,7 +58,7 @@ AutoHotKey WinXP Version can download
 先畫好欲渲染圖形<br>
 <img src="/picture/img_render.png" width="600" /><br>
 在 開發人員/巨集，點選"render"/執行<br>
-<img src="/picture/img_render2.png" width="600" /><br>
+<img src="/picture/img_render2.png" width="400" /><br>
 VBA 內容<br>
 ```
 Sub render()
