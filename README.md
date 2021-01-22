@@ -3,7 +3,8 @@
 ## Controll ( By AutoHotkey )
 Because the "VeriLnstrument"(the verilog simulation software) only can controlled by mouse, but it's hard to complete that difficult 
 operation. Therefore, it need a auxiliary software to help me tranfer from keyboard to mouse clicking.<br>
-There are many software to do that. But in this project we are in winXP environment. So it's difficult to write by simply Python or C++ (not support by 32bits). But fortunately we have autohotkey, it has both 32bits & 64bits vision !! The following code is work on AutoHotKey<br>
+There are many software to do that. But in this project we are in winXP environment. So it's difficult to write by simply Python or C++ (not support by 32bits). But fortunately we have autohotkey, it has both 32bits & 64bits vision !! <br>
+The following code is work on AutoHotKey<br>
 ```
 x=500
 y=500
@@ -52,6 +53,7 @@ Having this code, we can controll "w,s,a,d" as "up,down,left,right"<br>
 
 
 ## Backgrounder Render ( By Excel VBA )
+
 ```
 Sub render()
     For j = 1 To 281
