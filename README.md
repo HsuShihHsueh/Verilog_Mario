@@ -56,9 +56,9 @@ AutoHotKey WinXP Version can download
 
 ## Backgrounder Render ( By Excel VBA )
 先畫好欲渲染圖形<br>
-<img src="/picture/img_render.png" width="375" />
+<img src="/picture/img_render.png" width="600" /><br>
 在 開發人員/巨集，點選"render"/執行<br>
-<img src="/picture/img_render.png" width="375" />
+<img src="/picture/img_render.png" width="600" /><br>
 VBA 內容<br>
 ```
 Sub render()
