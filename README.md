@@ -2,7 +2,7 @@
 
 ## Controll ( By AutoHotkey )
 Because the "VeriLnstrument"(the verilog simulation software) only can controlled by mouse, but it's hard to complete that difficult 
-operation. Therefore, it need a auxiliary software to help me tranfer from keyboard to mouse clicking.<br>
+operation. Therefore, it need a auxiliary software to help me tranfer from keyboard to mouse clicking.<br><br>
 There are many software to do that. But in this project we are in winXP environment. So it's difficult to write by simply Python or C++ (not support by 32bits). But fortunately we have autohotkey, it has both 32bits & 64bits vision !! <br>
 The following code is work on AutoHotKey<br>
 ```
@@ -55,8 +55,11 @@ AutoHotKey WinXP Version can download
 
 
 ## Backgrounder Render ( By Excel VBA )
+先畫好欲渲染圖形<br>
 <img src="/picture/img_render.png" width="375" />
-
+在 開發人員/巨集，點選"render"/執行<br>
+<img src="/picture/img_render.png" width="375" />
+VBA 內容<br>
 ```
 Sub render()
     For j = 1 To 281
