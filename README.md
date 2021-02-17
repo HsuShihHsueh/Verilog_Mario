@@ -1,7 +1,5 @@
 # verilog_mario
-👇 youtube link<br>
-[![](http://img.youtube.com/vi/Qw0YU3ArH7M/0.jpg)](http://www.youtube.com/watch?v=Qw0YU3ArH7M "")
-<tab><<img src="/picture/mario_title.png" width="600" /><br>
+[![](http://img.youtube.com/vi/Qw0YU3ArH7M/0.jpg)](http://www.youtube.com/watch?v=Qw0YU3ArH7M "👇 youtube link")
 ## Controll ( By AutoHotkey )
 Because the "VeriLnstrument"(the verilog simulation software) only can controlled by mouse, but it's hard to complete that difficult 
 operation. Therefore, it need a auxiliary software to help me tranfer from keyboard to mouse clicking.<br><br>
