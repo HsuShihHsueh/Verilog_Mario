@@ -2,7 +2,6 @@
 👇 youtube link<br>
 
 <kbd><a href="https://www.youtube.com/watch?v=Qw0YU3ArH7M"><img src="https://i9.ytimg.com/vi/Qw0YU3ArH7M/maxresdefault.jpg?time=1613617200000&sqp=CLCwt4EG&rs=AOn4CLDXfveZS5q8XcjDqc0Oino6mK_i7g" width="700" style="border:2px #ccc solid;padding:5px;"></a></kbd><br> 
-[![](http://img.youtube.com/vi/Qw0YU3ArH7M/0.jpg)](http://www.youtube.com/watch?v=Qw0YU3ArH7M "")
 ## Controll ( By AutoHotkey )
 Because the "VeriLnstrument"(the verilog simulation software) only can controlled by mouse, but it's hard to complete that difficult 
 operation. Therefore, it need a auxiliary software to help me tranfer from keyboard to mouse clicking.<br><br>
