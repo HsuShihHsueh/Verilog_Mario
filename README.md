@@ -1,4 +1,4 @@
-# verilog_mario
+# 【Verilog】Mario
 👇 youtube link<br>
 [![](http://img.youtube.com/vi/Qw0YU3ArH7M/0.jpg)](http://www.youtube.com/watch?v=Qw0YU3ArH7M "")
 ## Controll ( By AutoHotkey )
