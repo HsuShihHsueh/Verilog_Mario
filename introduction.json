@@ -1,0 +1,17 @@
+{
+	"name" : "Verilog_Mario",
+	"thumbnail" : "https://img.youtube.com/vi/Qw0YU3ArH7M/maxresdefault.jpg",
+	"project_zh" : "【Verilog】馬力歐",
+	"project_en" : "Mario by Verilog",
+	"hashtag" : ["#Verilog","#AutoHotKey","#ExcelVBA"],
+	"description_zh" : "本項目為數位邏輯設計期末專題-馬力歐遊戲，關於如何將畫面轉為匯入Verilog程式中，本項目做法是先於excel上作圖，利用內建ExcelVBA程式轉成Verilog可讀格式。AutoHotKey可藉由鍵盤輔助點擊畫面按鈕。",
+	"description_en" : "The Mario game develpometed by Verilog is the final project of the Digital Logic Design course. Excel VBA helps us tranfer the bitmap from excel into Verilog propram. AutoHotKey can use keyboard to assistant clicking on screen buttons.",
+	"github" : "https://github.com/HsuShihHsueh/Verilog_Mario",
+	"youtube" : "https://www.youtube.com/watch?v=Qw0YU3ArH7M",
+	"date" : "Last Updated : 2021-01-23",
+	"picture" : [
+		"https://img.youtube.com/vi/Qw0YU3ArH7M/maxresdefault.jpg",
+		"https://raw.githubusercontent.com/HsuShihHsueh/Verilog_Mario/main/picture/1.gif",
+		"https://raw.githubusercontent.com/HsuShihHsueh/Verilog_Mario/main/picture/2.gif"
+	]
+}
